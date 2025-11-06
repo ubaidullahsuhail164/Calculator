@@ -1,5 +1,5 @@
-#Calculator
-🧮 Calculator Project
+
+# 🧮 Calculator Project
 
 A simple and user-friendly calculator built using [your technology — e.g., Python / Java / C++ / HTML, CSS & JavaScript].
 This project performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
